@@ -47,9 +47,6 @@ int main()
     emOrdem(raiz);
     printf("\n");
 
-    // Lembre-se de liberar a memória alocada pela árvore após o uso.
-    // Implemente uma função para liberar a memória de forma adequada.
-
     return 0;
 }
 
